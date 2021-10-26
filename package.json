@@ -1,0 +1,14 @@
+{
+  "name": "simple-vercel-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gal Schlezinger <gal@spitfire.co.il>",
+  "license": "MIT",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.14"
+  },
+  "devDependencies": {
+    "@vercel/node": "^1.12.1",
+    "vercel": "^23.1.2"
+  }
+}
