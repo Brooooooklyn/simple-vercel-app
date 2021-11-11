@@ -5,7 +5,7 @@
   "author": "Gal Schlezinger <gal@spitfire.co.il>",
   "license": "MIT",
   "dependencies": {
-    "@napi-rs/canvas": "^0.1.14"
+    "@napi-rs/canvas": "^0.1.15"
   },
   "devDependencies": {
     "@vercel/node": "^1.12.1",
